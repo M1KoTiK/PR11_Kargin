@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PR11_KARGIN</string>
+    <string name="hint_inp_name">Введите ваше имя</string>
+    <string name="hint_inp_lname">Введите вашу фамилию</string>
+    <string name="hint_inp_password">Введите свой пароль</string>
+    <string name="agreement">Нажимая принять вы соглашаетесь на обработку персональных данных</string>
+    <string name="registration">Регистрация</string>
+    <string name="help">Помощь</string>
+    <string name="sign_in">Вход</string>
+
+</resources>
