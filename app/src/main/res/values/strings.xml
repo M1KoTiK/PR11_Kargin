@@ -1,5 +1,5 @@
-<resources>
-    <string name="app_name">PR11_KARGIN</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">PR11_KARGIN</string>
     <string name="hint_inp_name">Введите ваше имя</string>
     <string name="hint_inp_lname">Введите вашу фамилию</string>
     <string name="hint_inp_password">Введите свой пароль</string>
@@ -7,5 +7,6 @@
     <string name="registration">Регистрация</string>
     <string name="help">Помощь</string>
     <string name="sign_in">Вход</string>
+    <string name="todo">TODO</string>
 
 </resources>

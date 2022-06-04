@@ -25,5 +25,8 @@
     <color name="blue_800">#21D5D5</color>
     <color name="blue_900">#137575</color>
 
+    <color name="bg">#E9E9E9</color>
+
+
 
 </resources>
